@@ -360,6 +360,9 @@ footer {
   .email-btn:hover {
     color: #3498db; 
   }
+.email-btn:active {
+    color: #e74c3c; 
+}
 .phone-link {
     font-family: Arial, sans-serif;
     font-weight: bold;

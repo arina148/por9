@@ -346,3 +346,22 @@ footer {
   padding-top: 18px; text-align: center;
   color: var(--gray-light); font-size: .74rem; margin-top: 8px;
 }
+.phone-link {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #cccccc; 
+    text-decoration: none;
+    transition: color 0.3s ease; 
+}
+
+
+.phone-link:hover {
+    color: #3498db; 
+}
+
+
+.phone-link:active {
+    color: #e74c3c; 
+}
+

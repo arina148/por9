@@ -348,9 +348,10 @@ footer {
 }
 .phone-link {
     font-family: Arial, sans-serif;
-    font-size: 79rem;
     font-weight: bold;
-    color: #A9A9A9; 
+    color: var(--gray-light); 
+    font-size: .74rem; 
+    margin-top: 8px; 
     text-decoration: none;
     transition: color 0.3s ease; 
 }

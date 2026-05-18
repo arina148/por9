@@ -348,13 +348,13 @@ footer {
 }
  .email-btn {
     display: inline-block;
-    padding: 12px 24px; 
-    color: var(--gray-light);;
-    text-decoration: none;
-    border-radius: 5px;
     font-family: Arial, sans-serif;
     font-weight: bold;
-    transition: background-color 0.3s ease;
+    color: var(--gray-light); 
+    font-size: .74rem; 
+    margin-top: 8px; 
+    text-decoration: none;
+    transition: color 0.3s ease;
   }
 
   .email-btn:hover {

@@ -347,14 +347,12 @@ footer {
   color: var(--gray-light); font-size: .74rem; margin-top: 8px;
 }
  .email-btn {
-    display: inline-block;
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-    color: var(--gray-light); 
-    font-size: .74rem; 
-    margin-top: 8px; 
+    color: var(--gray-light);
     text-decoration: none;
-    transition: color 0.3s ease;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s ease;
+}
   }
 
   .email-btn:hover {
